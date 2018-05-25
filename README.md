@@ -6,3 +6,5 @@ Developer have option to choose the specify core development such as
 * UI development library
 * Network development library
 * Full development library
+
+This project is in progress. If you like this, just click on Watching. Hope the comming release will meet your needs.
